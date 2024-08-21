@@ -1,0 +1,9 @@
+if(teste) {
+  if(aa==xzo){ 
+    if(x){
+     if(joao) {
+       if(testea==testeb){abc}
+     }
+    }
+  }
+}
