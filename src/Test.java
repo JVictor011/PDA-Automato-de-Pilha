@@ -51,6 +51,7 @@ public class Test {// PDA = (Q, Σ, δ, q0, F)
         IPDA pda = new PDAImpl(q0);
         boolean b = pda.run(w);
         Util.checkout(b, w);
+        System.out.println("*****************************");
     }
     
 	
@@ -97,6 +98,7 @@ public class Test {// PDA = (Q, Σ, δ, q0, F)
         IPDA pda = new PDAImpl(q0);
         boolean b = pda.run(w);
         Util.checkout(b, w);
+        System.out.println("*****************************");
     }
     
 
